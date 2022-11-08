@@ -32,9 +32,17 @@ body {
     height: 100vh;
 }
 
+.container__box {
+    margin: 0 6em;
+}
+
 .container__title {
     font-size: 28px;
     font-weight: 700;
+}
+
+.container__img {
+    margin: 1em 0 2em 0;
 }
 
 .container__button {
@@ -44,6 +52,7 @@ body {
     display: block;
     padding: 1em;
     text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .container__secondary-button {

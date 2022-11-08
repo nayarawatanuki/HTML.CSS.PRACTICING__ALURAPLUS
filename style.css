@@ -1,8 +1,10 @@
 :root {
-    --principal-white: #FFFFFF; 
-    --secondary-grey: #C0C0C0;
+    --principal-color: #FFFFFF; 
+    --secondary-color: #C0C0C0;
     --blue-button: #167BF7;
     --background-color: #00030C;
+
+    --principal-font: 'Inter';
 }
 
 * {
@@ -12,5 +14,44 @@
 
 body {
     background-color: var(--background-color);
-    color: var(--principal-white);
+    color: var(--principal-color);
+    font-family: var(--principal-font);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.principal-section {
+    background-image: url(img/Background.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 100vh;
+}
+
+.container__title {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.container__button {
+    background-color: var(--blue-button);
+    border-radius: 5px;
+    color: var(--principal-color);
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+}
+
+.container__secondary-button {
+    background-color: transparent;
+    border: 2px solid var(--principal-color);
+}
+
+.container__warning {
+    color: var(--secondary-color);
+    font-size: 12px;
 }

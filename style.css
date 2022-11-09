@@ -34,20 +34,20 @@ body {
     height: 100vh;
 }
 
-.principal-section__box {
+.section__box {
     margin: 0 6em;
 }
 
-.principal-section__title {
+.section__title {
     font-size: 28px;
     font-weight: 700;
 }
 
-.principal-section__img {
+.section__img {
     margin: 1em 0 2em 0;
 }
 
-.principal-section__button {
+.section__button {
     background-color: var(--blue-button);
     border-radius: 5px;
     color: var(--principal-color);
@@ -57,12 +57,12 @@ body {
     margin-bottom: 1em;
 }
 
-.principal-section__secondary-button {
+.button__secondary {
     background-color: transparent;
     border: 2px solid var(--principal-color);
 }
 
-.principal-section__warning {
+.section__warning {
     color: var(--secondary-color);
     font-size: 12px;
 }
@@ -85,4 +85,13 @@ body {
 
 .description__text {
     color: var(--secondary-color);
+}
+
+.button__secondary2 {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.section__description {
+    padding: 2em;
 }

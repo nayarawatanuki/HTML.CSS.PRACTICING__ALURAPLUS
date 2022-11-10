@@ -15,7 +15,8 @@
 </br>
 
 ## :pencil: Descrição do Projeto
-Projeto concluído, desenvolvido para o curso de **HTML E CSS: PRATICANDO HTML/CSS** da platforma Alura. O Alura+, é uma proposta de design de página web para anunciar/promover os pacotes da plataforma Alura:
+Projeto concluído, desenvolvido para o curso de **HTML E CSS: PRATICANDO HTML/CSS** da platforma Alura. 
+O projeto Alura+, é uma proposta de design de página web para anunciar/promover os pacotes disponíveis da plataforma Alura:
 | ![Combo+](https://github.com/nayarawatanuki/html-css-practicing__aluraplus/blob/main/img/Combo%2B%20logo.png) <ul align="justify"></br><li>Acesso a TODOS os cursos da plataforma</li><li>Alura Challenges</li><li>Alura Cases</li><li>Certificado</li><li>Alura Língua (incluindo curso Inglês para Devs)</li></ul> | ![Alura+](https://github.com/nayarawatanuki/html-css-practicing__aluraplus/blob/main/img/alura%2B%20logo.png) <ul align="justify"></br><li>Acesso a TODOS os cursos da plataforma</li><li>Alura Challenges</li><li>Alura Cases</li><li>Certificado</li></br></ul> |
 | - | - |
 

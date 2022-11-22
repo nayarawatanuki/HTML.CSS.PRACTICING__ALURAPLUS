@@ -15,7 +15,7 @@
 </br>
 
 ## :pencil: Descrição do Projeto
-Projeto concluído, desenvolvido para o curso de **HTML E CSS: PRATICANDO HTML/CSS** da platforma Alura. 
+Projeto desenvolvido para o curso de **HTML E CSS: PRATICANDO HTML/CSS** da platforma [Alura](https://www.alura.com.br/). </br>
 O projeto Alura+, é uma proposta de design de página web para anunciar/promover os pacotes disponíveis da plataforma Alura:
 | ![Combo+](https://raw.githubusercontent.com/nayarawatanuki/html-css-practicing__aluraplus/main/img/README.md/Combo%2B%20logo.png) <ul align="justify"></br><li>Acesso a TODOS os cursos da plataforma</li><li>Alura Challenges</li><li>Alura Cases</li><li>Certificado</li><li>Alura Língua (incluindo curso Inglês para Devs)</li></ul> | ![Alura+](https://raw.githubusercontent.com/nayarawatanuki/html-css-practicing__aluraplus/main/img/README.md/alura%2B%20logo.png) <ul align="justify"></br><li>Acesso a TODOS os cursos da plataforma</li><li>Alura Challenges</li><li>Alura Cases</li><li>Certificado</li></br></ul> |
 | - | - |
@@ -28,7 +28,19 @@ O projeto Alura+, é uma proposta de design de página web para anunciar/promove
 </br>
 
 ## :hammer: Funcionalidades e Demonstração da Aplicação
-Como o projeto é apenas visual, ou seja, trabalhado apenas no design, não há funções disponíveis.
+Projeto estruturado da seguinte forma: 
+- **HTML:** dividido entre `<section>` e `<div>`;
+- **CSS:** aprendida e utilizada a inserção variáveis, afim de evitar repetição de código e atributos. Ainda foi praticado, um pouco mais, na questão de posicionamento de elementos;
+- **README.md:** entendido sua importância e como construí-lo.
+
+Aplicado uso da plataforma [Vercel](https://vercel.com/) (portifólio de projetos, o qual possui o mesmo objetivo do GitHub, porém com maior suporte para linguagens).
+
+Isso tudo foi realizado com as seguintes aulas:
+- Iniciando o projeto 
+- A dupla HTML e CSS
+- Posicionando elementos
+- Finalizando nossa página
+- Compartilhando o projeto
 
 </br>
 

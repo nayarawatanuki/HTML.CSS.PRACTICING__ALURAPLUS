@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Alura+" src="https://raw.githubusercontent.com/nayarawatanuki/html-css-practicing__aluraplus/main/img/README.md/alura%2B%20(cover).png"/>
+  <img alt="Alura+" src="https://raw.githubusercontent.com/nayarawatanuki/html-css-practicing__aluraplus/main/img/README.md/alura%2B%20(cover).png#vitrinedev"/>
 </h1>
 
 ### Índice
@@ -15,7 +15,7 @@
 </br>
 
 ## :pencil: Descrição do Projeto
-Projeto desenvolvido para o curso de **HTML E CSS: PRATICANDO HTML/CSS** da platforma [Alura](https://www.alura.com.br/). </br>
+Projeto desenvolvido para o curso de **HTML E CSS: PRATICANDO HTML/CSS** da plataforma [Alura](https://www.alura.com.br/). </br>
 O projeto Alura+, é uma proposta de design de página web para anunciar/promover os pacotes disponíveis da plataforma Alura:
 | ![Combo+](https://raw.githubusercontent.com/nayarawatanuki/html-css-practicing__aluraplus/main/img/README.md/Combo%2B%20logo.png) <ul align="justify"></br><li>Acesso a TODOS os cursos da plataforma</li><li>Alura Challenges</li><li>Alura Cases</li><li>Certificado</li><li>Alura Língua (incluindo curso Inglês para Devs)</li></ul> | ![Alura+](https://raw.githubusercontent.com/nayarawatanuki/html-css-practicing__aluraplus/main/img/README.md/alura%2B%20logo.png) <ul align="justify"></br><li>Acesso a TODOS os cursos da plataforma</li><li>Alura Challenges</li><li>Alura Cases</li><li>Certificado</li></br></ul> |
 | - | - |
